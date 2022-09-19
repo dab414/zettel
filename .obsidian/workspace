@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "e05679fc51b0b40b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12be3b9c75981ad9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20220919115705-detecting_cyber_attacks_manufacturing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d82ae83f9a8bc8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3353a29d154a351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc04b3b2d7c19865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b1c1ed8a9544b19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#develop",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "571cd3aa4fc28a1d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cedc298100efafbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d732fe67929f8942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a513e02e63f407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20220919115705-detecting_cyber_attacks_manufacturing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb710b7ed05f15d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20220919115705-detecting_cyber_attacks_manufacturing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81a5c70ddd4d526c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b611d5d85fb600be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20220919115705-detecting_cyber_attacks_manufacturing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "12be3b9c75981ad9",
+  "lastOpenFiles": [
+    "20220919120128-tracing_defect_to_source_manufacturing.md",
+    "20220919115705-detecting_cyber_attacks_manufacturing.md",
+    "20220914131701-human_factors_in_cyber_security_is_understudied.md"
+  ]
+}
