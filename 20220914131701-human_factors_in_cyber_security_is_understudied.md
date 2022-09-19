@@ -4,7 +4,8 @@
 
 There is a lack of research specifically focusing on how cyber attacks may target and exploit human cognition.
 
-For example, one target of an attack could be to cause impaired decision making or frustration by introducing pop ups or system lag.
+For example, one target of an attack could be to cause impaired decision making or
+frustration by introducing pop ups or system lag. This would be an example of a feed-forward attack (see [[20220919100750-forward_feeding_attack.md]]).
 
 The US Joint Staff defined five specific categories of an attack designed to impair decision making:
 
