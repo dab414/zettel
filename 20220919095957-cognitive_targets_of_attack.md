@@ -4,7 +4,7 @@
 One often overlooked possibility for what an attack might be trying to accomplish (ie, its
 target) might be something that would to impair human cognition (mancuso et al., 2014).
 One could imagine how this might be a type of forward-feeding attack
-[[20220919100750-forward-feeding-attack-DEV.md]], where the target of one attack feeds
+[[20220919100750-forward_feeding_attack.md]], where the target of one attack feeds
 forward to impair subsequent systems. In the example of human cognition, the initial
 attack targets something that might give rise to frustration or impaired decision making,
 leading a user or operator of a system to make mistakes. Examples of targets that might

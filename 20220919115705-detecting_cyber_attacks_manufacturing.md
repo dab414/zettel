@@ -2,7 +2,7 @@
 
 #hcps #manufacturing #attack #detection #develop
 
-Detecting attacks in [[manufacturing]] can be difficult, especially if the attack results in
+Detecting attacks in [[20220919134650-manufacturing.md]] can be difficult, especially if the attack results in
 only subtle defects to the end product. The most devastating type of defect is the one
 that isn't deteccted until the product is consumed by the end user (sreeramagiri et al., 2002).
 

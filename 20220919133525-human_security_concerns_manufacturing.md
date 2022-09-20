@@ -3,7 +3,7 @@
 #hcps #security #manufacturing #vulnerability
 
 This is an overview of some of the human-centric concerns that affect the
-[[manufacturing]] industry broadly. 
+[[20220919134650-manufacturing.md]] industry broadly. 
 
 There are two general actors in a manufacturing pipeline:
 

@@ -4,7 +4,7 @@
 
 
 Within the domain of manufacturing, a cyber attack can result in negative outcomes that
-can have a cascading effect. These outcomes are:
+can have a cascading effect (see [[20220919100750-forward_feeding_attack]]. These outcomes are:
 
 * breach of physical privacy
 * unauthorized actuation
