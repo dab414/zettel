@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12be3b9c75981ad9",
+        "id": "97fd456ef791f271",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20220920093708-measuring_mental_models.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220920093708-measuring_mental_models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220920093708-measuring_mental_models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20220920093708-measuring_mental_models.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12be3b9c75981ad9",
+  "active": "97fd456ef791f271",
   "lastOpenFiles": [
+    "20220919152259-cyber_physical_system_framework.md",
+    "20220920093708-measuring_mental_models.md",
+    "20220919133525-human_security_concerns_manufacturing.md",
+    "20220920111058-human_security_concerns_causes_CPS.md",
     "20220919100750-forward_feeding_attack.md",
     "20220919134650-manufacturing.md",
     "20220919112403-manufacturing_cascading_physical_outcomes_of_attack.md",
     "20220919152749-cognitive_engineering_decision_making.md",
-    "20220919152259-cyber_physical_system_framework.md",
     "20220919145732-mental_models.md",
-    "20220919144842-mental_model_analogies_cyber_security.md",
-    "20220919142147-bayesian_reasoning_probabilities_frequencies.md",
-    "20220919115705-detecting_cyber_attacks_manufacturing.md",
-    "20220919113949-actor_network_theory_ANT.md"
+    "20220919144842-mental_model_analogies_cyber_security.md"
   ]
 }
