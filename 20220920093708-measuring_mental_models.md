@@ -12,19 +12,31 @@ mental model (Payne, 1991).
 
 Methods for measuring mental models:
 
-* Qualitative:
-    * Scenario-based interviews and open ended questions (wash, 2010; krombholz et al., 2019; das et al., 2020; zimmerman et al., 2018; Bravo-lillo et al., 2011; kang et al., 2015; payne, 1991)
-    * Sketching a diagram and / or think-aloud (Kang et al., 2016; Zeng et al., 2017;
-        Zimmerman et al., 2018)
-	* Focus group (kwasny, 2008)
-* Quantitative:
-    * Card sorting (shirehjini et al., 2016; jeong, 2020; asgharpour et al., 2007)
-	* Reaction time (cooke, 1994; blomacher et al., 2020)
+* Scenario-based interviews and open ended questions (wash, 2010; krombholz et al., 2019; das et al., 2020; zimmerman et al., 2018; Bravo-lillo et al., 2011; kang et al., 2015; payne, 1991; Bostrom et al., 1992)
+* Sketching a diagram and / or think-aloud (Kang et al., 2016; Zeng et al., 2017;
+	Zimmerman et al., 2018)
+* Focus group (kwasny, 2008)
+* Card sorting (shirehjini et al., 2016; jeong, 2020; asgharpour et al., 2007)
+* Reaction time (cooke, 1994; blomacher et al., 2020)
+* Laddering (Rowe & Cooke, 1995)
+	* Receiving a problem statement, identify (i) system, (ii) major components, (iii) all components.
 
 Zimmerman et al (2018) use an open-ended sketching technique (along with think aloud) to
 assess mental models. As such, participants yield highly variable sketches:
 
 ![[zimmerman_et_al_2018_fig1.jpg]]
+
+interviews
+	 Bostrom, A., Fischhoff, B., Morgan, M.G.: Characterizing mental
+	 models of hazardous processes: A methodology and an application to
+	 radon. Journal of Social Issues 48(4), 85–100 (1992)
+
+laddering
+	Rowe, A.L., Cooke, N.J.: Measuring mental models: Choosing the right
+	tools for the job. Human Resource Development Quarterly 6(3), 243–255
+	(1995)
+
+
 
 **References**
 
@@ -125,3 +137,8 @@ Abstracts on Human Factors in Computing Systems 2008:3291-
 
 *  Payne SJ: A descriptive study of mental models. Behav Inf Technol 1991,
   10:3-21.
+
+* Bostrom, A., Fischhoff, B., Morgan, M.G.: Characterizing mental
+ models of hazardous processes: A methodology and an application to
+ radon. Journal of Social Issues 48(4), 85–100 (1992)
+
