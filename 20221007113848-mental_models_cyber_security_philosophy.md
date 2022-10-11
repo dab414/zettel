@@ -8,6 +8,12 @@ users' ignorance [1]. However, recent perspectives in
 cyber security have highlighed the need to consider not only the risk when
 designing warning systems, but also users' mental models ([[20220919145732-mental_models.md]]) of the technology [2-4]. 
 
+Researchers have argued that, in cyber security, user's mental models need to
+include some concept of vulnerability to attacks. So communication needs to be
+aligned with where users' mental models are at, but mental models need to be
+adapted / extended to increase the chance that a user will recognize and
+respond to threats / vulnerabilities (all comes from Volkamer & Renaud, 2013).
+
 **References**
 
 1.	 Schechter, S.E., Dhamija, R., Ozment, A., Fischer, I.: The emperor’s new
@@ -25,5 +31,15 @@ of Information Security, Carnegie Mellon University, June 7-8 (2007)
 
 4. Adams, A., Sasse, M.A.: Users are not the enemy. Communications of the
 ACM 42(12), 40–46 (1999)
+
+5. @incollection{volkamer2013mental,
+  title={Mental models--general introduction and review of their application to human-centred security},
+  author={Volkamer, Melanie and Renaud, Karen},
+  booktitle={Number Theory and Cryptography},
+  pages={255--280},
+  year={2013},
+  publisher={Springer}
+}
+
 
 

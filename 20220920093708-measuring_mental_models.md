@@ -12,11 +12,11 @@ mental model (Payne, 1991).
 
 Methods for measuring mental models:
 
-* Scenario-based interviews and open ended questions (wash, 2010; krombholz et al., 2019; das et al., 2020; zimmerman et al., 2018; Bravo-lillo et al., 2011; kang et al., 2015; payne, 1991; Bostrom et al., 1992)
+* Scenario-based interviews and open ended questions (wash, 2010; krombholz et al., 2019; das et al., 2020; zimmerman et al., 2018; Bravo-lillo et al., 2011; kang et al., 2015; payne, 1991; Bostrom et al., 1992; Liu et al., 2008)
 * Sketching a diagram and / or think-aloud (Kang et al., 2016; Zeng et al., 2017;
 	Zimmerman et al., 2018)
 * Focus group (kwasny, 2008)
-* Card sorting (shirehjini et al., 2016; jeong, 2020; asgharpour et al., 2007)
+* Card sorting (shirehjini et al., 2016; jeong, 2020; asgharpour et al., 2007; liu et al., 2008)
 * Reaction time (cooke, 1994; blomacher et al., 2020)
 * Laddering (Rowe & Cooke, 1995)
 	* Receiving a problem statement, identify (i) system, (ii) major components, (iii) all components.
@@ -142,3 +142,6 @@ Abstracts on Human Factors in Computing Systems 2008:3291-
  models of hazardous processes: A methodology and an application to
  radon. Journal of Social Issues 48(4), 85–100 (1992)
 
+* Liu, D., Asgharpour, F., Camp, L.: Risk communication in security using
+mental models (2008), Usable Security Website:
+http://usablesecurity.org/papers/liu.pdf
