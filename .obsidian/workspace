@@ -7,12 +7,8 @@
         "id": "97fd456ef791f271",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20220919115705-detecting_cyber_attacks_manufacturing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hcps",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 188.5
   },
   "right": {
     "id": "cedc298100efafbc",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220919115705-detecting_cyber_attacks_manufacturing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220919115705-detecting_cyber_attacks_manufacturing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20220919115705-detecting_cyber_attacks_manufacturing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "97fd456ef791f271",
+  "active": "2b1c1ed8a9544b19",
   "lastOpenFiles": [
-    "20220919120128-tracing_defect_to_source_manufacturing.md",
-    "20220919100750-forward_feeding_attack.md",
-    "20220919095957-cognitive_targets_of_attack.md",
-    "20220919145732-mental_models.md",
-    "20220919115705-detecting_cyber_attacks_manufacturing.md",
-    "20220920093708-measuring_mental_models.md",
+    "20221012143156-mental_models_security_roadblocks.md",
+    "20220920101902-human_security_CPS.md",
     "20220920102600-human_security_concerns_CPS.md",
-    "20220919134650-manufacturing.md",
-    "20220919152259-cyber_physical_system_framework.md",
-    "20220919133525-human_security_concerns_manufacturing.md"
+    "20220919133525-human_security_concerns_manufacturing.md",
+    "20221012103914-mental_models_security_offloading.md",
+    "20221010113520-mental_models_and_security.md",
+    "20220919152749-cognitive_engineering_decision_making.md",
+    "20220919115705-detecting_cyber_attacks_manufacturing.md",
+    "20220919120128-tracing_defect_to_source_manufacturing.md",
+    "20220919100750-forward_feeding_attack.md"
   ]
 }

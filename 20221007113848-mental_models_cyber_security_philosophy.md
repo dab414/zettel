@@ -14,6 +14,10 @@ aligned with where users' mental models are at, but mental models need to be
 adapted / extended to increase the chance that a user will recognize and
 respond to threats / vulnerabilities (all comes from Volkamer & Renaud, 2013).
 
+It's easier to align risk communication messages to a user's existing mental
+model (even if that model is wrong), then to try to correct the mental model.
+[6]
+
 **References**
 
 1.	 Schechter, S.E., Dhamija, R., Ozment, A., Fischer, I.: The emperor’s new
@@ -41,5 +45,12 @@ ACM 42(12), 40–46 (1999)
   publisher={Springer}
 }
 
+6. @inproceedings{wash2010folk,
+  title={Folk models of home computer security},
+  author={Wash, Rick},
+  booktitle={Proceedings of the Sixth Symposium on Usable Privacy and Security},
+  pages={1--16},
+  year={2010}
+}
 
 
