@@ -1,5 +1,5 @@
 # 20221010104214-optimizing-mental-models
-#hcps #metnal-models #optimize
+#hcps #mental-models #optimize
 
 
 ## Optimizing mental models

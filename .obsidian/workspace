@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "97fd456ef791f271",
+        "id": "3a094ec1ca1505fa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20221013114051-research_questions_smart_cars.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20221013114051-research_questions_smart_cars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20221013114051-research_questions_smart_cars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20221013114051-research_questions_smart_cars.md"
+              }
             }
           }
         ]
@@ -121,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b1c1ed8a9544b19",
+  "active": "3a094ec1ca1505fa",
   "lastOpenFiles": [
+    "20221007113848-mental_models_cyber_security_philosophy.md",
+    "20221013114051-research_questions_smart_cars.md",
+    "20221013114306-smart_cars.md",
     "20221012143156-mental_models_security_roadblocks.md",
     "20220920101902-human_security_CPS.md",
     "20220920102600-human_security_concerns_CPS.md",
     "20220919133525-human_security_concerns_manufacturing.md",
     "20221012103914-mental_models_security_offloading.md",
     "20221010113520-mental_models_and_security.md",
-    "20220919152749-cognitive_engineering_decision_making.md",
-    "20220919115705-detecting_cyber_attacks_manufacturing.md",
-    "20220919120128-tracing_defect_to_source_manufacturing.md",
-    "20220919100750-forward_feeding_attack.md"
+    "20220919152749-cognitive_engineering_decision_making.md"
   ]
 }

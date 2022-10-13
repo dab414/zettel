@@ -1,3 +1,7 @@
 novices vs expert differences in mental models
     volkamer & renaud
     wash 2010
+        his discussion that experts might not even have 'correct' mental models (bottom
+        left p 4)
+    look into Mental Models of Security Risks
+    Farzaneh Asgharpour, Debin Liu, and L. Jean Camp
