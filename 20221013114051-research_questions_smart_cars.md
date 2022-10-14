@@ -9,7 +9,7 @@ and people's understanding of smart car security.[^1]
 We need to gather more information around the following premises to build
 questions / arguments in this space:
 
-1. Smart cars are vulnerable to attacks.  
+1. Smart cars are vulnerable to attacks ([[20221014112036-smart_car_vulnerability]]).  
     * This is based off our conversation with Rick (ref
     `2022-10-13_daniel_nick.txt`). Can we find more support for this point from
     literature / technical sources?
