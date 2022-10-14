@@ -11,8 +11,12 @@ questions / arguments in this space:
 
 1. Smart cars are vulnerable to attacks.  
     * This is based off our conversation with Rick (ref
-    `2022-10-13_dan_nick.txt`). Can we find more support for this point from
+    `2022-10-13_daniel_nick.txt`). Can we find more support for this point from
     literature / technical sources?
+
+    * Most modern vehicles are default unencrypted (need empirical support for
+        this). Implies an attacker with physical access to a car could
+        infiltrate provided enough skill and time with the car.
 
     * Possible sources of vulnerabilities might include updating software on
     the car itself, the connection between one's phone and the car, probably
@@ -51,10 +55,11 @@ questions / arguments in this space:
 
 3. How can these risks be communicated to motivate people to make smarter
    security decisions with respect to their smart car?
-   * Can involve education (ie, updating users' mental models) or crafting
-       risk communication messages to be compatible with existing mental
-       models. Researchers suggest the latter is easier (see
-       [[20221007113848-mental_models_cyber_security_philosophy.md]]).
+
+       * Can involve education (ie, updating users' mental models) or crafting
+           risk communication messages to be compatible with existing mental
+           models. Researchers suggest the latter is easier (see
+           [[20221007113848-mental_models_cyber_security_philosophy.md]]).
 
 ### Other interesting points
 

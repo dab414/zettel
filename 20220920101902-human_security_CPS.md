@@ -7,7 +7,7 @@ A map of content for all things related to human security in cyber physical syst
 * Human security concerns in CPSs broadly:
     * What are the concerns? [[20220920102600-human_security_concerns_CPS.md]]
     * What are the potential causes for the concerns? [[20220920111058-human_security_concerns_causes_CPS.md]]
-    * What are the potential solutions? [[]]
+    * What are the potential solutions? [[20220920115549-human_security_solutions_CPS.md]]
     * What are ways of and challenges with implementing the solutions? [[]]
 
 * Human security concerns in specific CPSs:

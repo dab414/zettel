@@ -4,12 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3a094ec1ca1505fa",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "c879895120e5b905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a094ec1ca1505fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +33,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -121,8 +129,12 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "3a094ec1ca1505fa",
   "lastOpenFiles": [
+    "20220920093708-measuring_mental_models.md",
     "20220920115549-human_security_solutions_CPS.md",
     "20221013114051-research_questions_smart_cars.md",
     "20221007113848-mental_models_cyber_security_philosophy.md",
@@ -131,7 +143,6 @@
     "20220920101902-human_security_CPS.md",
     "20220920102600-human_security_concerns_CPS.md",
     "20220919133525-human_security_concerns_manufacturing.md",
-    "20221012103914-mental_models_security_offloading.md",
-    "20221010113520-mental_models_and_security.md"
+    "20221012103914-mental_models_security_offloading.md"
   ]
 }
