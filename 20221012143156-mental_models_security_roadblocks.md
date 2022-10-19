@@ -8,7 +8,7 @@ contribute to security attitudes and behavior, but I'm open to considering
 security practices more broadly across other systems. 
 
 Overlaps a bit with general sources of human-caused security vulnerabilities in cyber
-physical systems (see [[20220920111058-human_security_concerns_causes_CPS.md]]). And more
+physical systems (see [[20220920111058-human_security_vulnerability_causes_CPS]]). And more
 generally for a map of content for security issues related to cyber physical systems
 (CPS), see [[20220920101902-human_security_CPS.md]].
 

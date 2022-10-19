@@ -1,4 +1,4 @@
-# 0220920102600-human_security_concerns_CPS
+# 20220920102600-human_security_vulnerabilities_CPS
 
 #hcps #human-security #concerns #CPS
 
@@ -27,6 +27,9 @@ scenario where someone is, for example, making an appropriate decision in
 response to bad data, which leads to negative consequences. Whether this can be
 considered as a "human error" per se is unclear.
 
+**Links**
+
+* [[20221019152229-cyber_physical_systems.md]]
 
 **References**
 

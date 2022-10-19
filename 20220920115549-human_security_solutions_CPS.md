@@ -10,6 +10,9 @@ perspective?
         risks
         * Can include phishing awareness (used by US Govt and defense contractors)
 
+**Links:**
+
+* [[20221019152229-cyber_physical_systems.md]]
 
 **References**
 
