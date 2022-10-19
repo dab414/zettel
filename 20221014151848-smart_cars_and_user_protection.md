@@ -3,7 +3,7 @@
 
 Smart cars are alarmingly insecure ([[20221014163027-smart_car_system_security_measures]]), lacking well-defined security measures for malicious parties attempting to gain access to a vehicle's network. Worringly, smart car users only have a few apparent options when it comes to protecting themselves against malevolent hackers. However, engaging with these options may go a long way in preserving their safety.
 
-For example[1], [2], users may:
+For example [1-3], users may:
 - Change the password for certain applications available on smart cars or on phones that interface with smart cars, like ones that involve GPS tracking, making it more difficult to guess.
 - Update a vehicle's software whenever possible.
 - Keep an eye out for abnormalities in the driving experience (e.g. a car driving in an unintended direction).
@@ -17,3 +17,4 @@ For examples of potential security measures that can be taken by individuals inv
 References:
 1. **[https://innovationatwork.ieee.org/six-ways-to-protect-against-autonomous-vehicle-cyber-attacks/](https://innovationatwork.ieee.org/six-ways-to-protect-against-autonomous-vehicle-cyber-attacks/)**
 2. **https://www.webroot.com/blog/2019/09/17/keeping-your-vehicle-secure-against-smart-car-hacks/**
+3. https://physicsworld.com/a/how-to-hack-a-self-driving-car/

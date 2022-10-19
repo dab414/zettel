@@ -34,7 +34,7 @@ questions / arguments in this space:
 3. Attacks on smart cars can be prevented by vigilent security practices on
    the part of the user.
     * What are some realistic actions users could take to bolster the security
-        of their smart car?
+        of their smart car? [[20221014151848-smart_cars_and_user_protection]]
         * Eg, is there such a thing as anti-virus software for smart cars?
 
 
