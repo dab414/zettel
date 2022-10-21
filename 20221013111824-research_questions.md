@@ -7,7 +7,8 @@ Mapping out developing research questions or directions in different areas of HC
 
 * Develop a survey scale assessing lay people's security concerns of cyber physical
     systems (see [[20221020144236-security_concern_scale_cyber_physical_systems]]).
-	
+
+* Develop research questions around what will influence or be influenced by people's security concerns of cyber physical systems (see [[20221021152856-research_questions_CPS_security_concerns]]).
 
 ## Investigating a specific cyber physical system
 
