@@ -3,7 +3,7 @@
 
 Cyber threats come in many forms across many systems, with a multitude of motivations and incentives for hackers to target a particular person or persons. In an effort to construct common themes around these attacks, we can abstract their consequences into the categories of physical, financial, data, and property harm. Below are examples of specific system attacks categorized by their ultimate consequence on the target(s).
 
-Physical/Personal:
+## Physical/Personal:
 - Smart cars:
 	- Hacking a vehicle's on-board diagnostics port, which is typically used by mechanics to read maintenance issues, allows direct access to a vehicle's computer without any security measures. This may allow hackers to manipulate different car systems. Such attacks may have consequences for both the car and the user [1]
 	- Pedestrian warning systems in teslas emit sound when driving under a certain speed to alert pedestrians who may not hear the car otherwise. This could cause an issue if the alarm were to be turned off and people crossing a street aren't aware of a passing car [14]
@@ -15,7 +15,7 @@ Physical/Personal:
 - Energy:
 	- Smart meters can be hacked and their parameters changed to lead to house fires/explosions which may be fatal for the building's resident(s) [8]
 
-Financial:
+## Financial:
 - Computers/smart phones:
 	- Phishing emails with malware or dangerous links attached
 		- One common type of malware is ransomware, which may prevent a user's access to their computer until they give the hacker money
@@ -29,7 +29,7 @@ Financial:
 - Bionic Limbs:
 	- Some bionic limbs have smart capabilities, like displays, near-field communication ability, activity tracking, and bluetooth connectivity. This may allow hackers to steal personal information from the devices [12]
 
-Data/Privacy:
+## Data/Privacy:
 - Computer/smart-phone based attacks [15]
 	- Phishing emails with malware or dangerous links attached
 		- One common type of malware is ransomware, which may prevent a user's access to their computer until they give the hacker money
@@ -61,7 +61,7 @@ Data/Privacy:
 - Energy:
 	- Smart meters can be hacked and data/history of energy use information can be acquired [8]. Additionally, phishing email notifications may be sent  through some smart meter displays [9], [10]
 
-Property:
+## Property:
 - Computer/smart-phone based attacks:
 	- Certain malicious files may be downloaded on a user's computer if they click on the wrong website or are targeted, and may completely remove a computer's function by corrupting or deleting key files
 - Smart cars:
