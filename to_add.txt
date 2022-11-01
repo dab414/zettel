@@ -1,3 +1,88 @@
+reading for cps concern scale:
+
+######## ARTICLE #########
+
+from zheng et al., 2018:
+
+###### note ######
+
+people willing to sacrifice privacy for convenience
+    their semi structured interview study found evidence for this in the
+    context of smart homes
+    aligns with evidence in other technology domains (all references)
+
+
+Alessandro Acquisti and Jens Grossklags. 2005. Privacy and rationality in
+individual decision making. IEEE security &
+privacy 3, 1 (2005), 26–33.
+
+George Demiris, Brian K Hensel, Marjorie Skubic, and Marilyn Rantz. 2008.
+Senior residents’ perceived need of and
+preferences for “smart home” sensor technologies. International journal of
+technology assessment in health care 24, 1
+(2008), 120–124.
+
+ Ruogu Kang, Laura Dabbish, Nathaniel Fruchter, and Sara Kiesler. 2015. “My
+ data just goes everywhere:” user mental
+ models of the internet and implications for privacy and security. In
+ Symposium on Usable Privacy and Security (SOUPS).
+ USENIX Association Berkeley, CA, 39–52.
+
+Daphne Townsend, Frank Knoefel, and Rafik Goubran. 2011. Privacy versus
+autonomy: a tradeoff model for smart home
+monitoring technologies. In Engineering in Medicine and Biology Society,
+EMBC, 2011 Annual International Conference
+of the IEEE. IEEE, 4749–4752.
+
+R Wang. 2013.
+June 10. Beware trading privacy for convenience.
+http://blogs.hbr.org/2013/06/
+beware-tradingprivacy-for-con. Harvard Business Review (2013).
+
+####### end note ##########
+
+####### new note  ##########
+
+people more willing to trust technology if they recognize a brand that they
+perceive to have a good reputation.
+
+p. 13, section 5.3
+
+####### end note ##########
+
+####### new note  ##########
+inherently trusting non sophisticated devices
+
+p. 14, section 5.4
+
+####### end note ##########
+
+######## END ARTICLE #########
+
+
+######## ARTICLE #########
+
+renaud et al., 2021
+
+####### note ########
+
+perspective of role of human in cyber security
+
+some view humans as biggest point of vulnerability or weakest link in security
+    wood & banks, 1993; schneier, 2011; kraemer and carayon, 2007
+other recent approaches highlight user's ability to contribute and embrace
+shared responsibility of security
+    sasse et al., 2001; castelli et al., 2018; hollnagel et al., 2006;
+    zimmermann and renaud, 2019
+
+####### end note ########
+
+
+
+
+
+
+
 novices vs expert differences in mental models
     volkamer & renaud
     wash 2010

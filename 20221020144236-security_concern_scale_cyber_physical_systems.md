@@ -34,6 +34,17 @@ In progress. We want past research dealing with:
             discussion of people's understanding of technology and the
             security risks associated with it.
 
+### Establish working definition of "security concern"
+
+What is security concern not?
+* It's not knowledge
+	* I can have accurate knowledge and not be concerned
+	* That includes knowledge of the system and / or knowledge of the risk itself
+* It's not willingness to adopt the technology or take security measures
+	* These are things concern should predict
+
+Are we really talking about just like a heightened state of anxiety at the state of security?
+
 ### Identify important constructs
 
 **Core constructs**
