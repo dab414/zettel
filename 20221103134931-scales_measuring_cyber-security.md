@@ -1,18 +1,32 @@
 # 20221103134931-scales_measuring_cyber-security
 #hcps #cyber-security #scale-development 
 
-While no prior (known) research has developed a scale specifically measuring people's concern around cybersecurity as it relates to the ultimate consequences of different types of cyber-attacks, there are many adjacent inventories. Below are a number of  scales with varying levels of relevance to the topic of concern around cyber-attack consequences, ordered loosely by relevance.
+Below are a number of scales from previous research looking into various aspects of cyber concern. We tried to select scales that focused on the negative emotional aspects of concern, such as fear and anxiety.
 
 ### Table of Contents:
-- Ever-present threats from information technology: the Cyber-Paranoia and Fear Scale
-- Anxiety as a Barrier to Information Processing in the Event of a Cyberattack
+- Cyber-Paranoia and Fear Scale
+	* Ever-present threats from information technology: the Cyber-Paranoia and Fear Scales
+	* Mason et al., 2014
+* Scale distinguishing between fear, anxiety, and anger (generally)
+	- Anxiety as a Barrier to Information Processing in the Event of a Cyberattack
+	* Cheung-Blunden & Ju, 2016
 - Assessing Users’ Privacy and Security Concerns of Smart Home Technologies
+	* Zimmerman et al., 2019
 - Emotional Experiences of Cybersecurity Breach Victims
-- Computer Self-Efficacy and Anxiety Scales for an Internet Sample: Testing Measurement Equivalence of Existing Measures and Development of New Scales
-- Development and Validation of an Artificial Intelligence Scale: an Initial Application in Predicting Motivated Learning Behavior
+	* Budimir et al., 2021
+* Emotional Experiences of Cybersecurity Breach Victims
+	*  Budimir, S., Fontaine, J. R., & Roesch, E. B. (2021)
+*  Self-report feelings of anxiety and self-efficacy when using computers
+	- Computer Self-Efficacy and Anxiety Scales for an Internet Sample: Testing Measurement Equivalence of Existing Measures and Development of New Scales
+	* Barbeite & Weiss, 2004
+* Artificial intelligence anxiety scale
+	- Development and Validation of an Artificial Intelligence Scale: an Initial Application in Predicting Motivated Learning Behavior
+	* Wang & Wang, 2022
 
 ----------------------------------------------------------------
-###### Ever-present threats from information technology: the Cyber-Paranoia and Fear Scales
+###### Cyber-Paranoia and Fear Scale
+
+**Title: Ever-present threats from information technology: the Cyber-Paranoia and Fear Scales**
 
 ![alt text](cyber_paranoia_fear_scale.jpg)
 - The first six items here were written to measure *paranoid* fears around information technology, while the latter five measure *realistic* fears
@@ -36,13 +50,15 @@ While no prior (known) research has developed a scale specifically measuring peo
 - Scale measuring participants' reflection of a prior experienced cybersecurity breach in terms of the "appraisals, action tendencies, bodily reactions, expressions, subjective feelings, and regulation attempts" that occured
 - Budimir, S., Fontaine, J. R., & Roesch, E. B. (2021)
 ----------------------------------------------------------------
-##### Computer Self-Efficacy and Anxiety Scales for an Internet Sample: Testing Measurement Equivalence of Existing Measures and Development of New Scales
+##### Self-report feelings of anxiety and self-efficacy when using computers
+Title: **Computer Self-Efficacy and Anxiety Scales for an Internet Sample: Testing Measurement Equivalence of Existing Measures and Development of New Scales**
 
 ![alt text](computer_self_efficacy_&_anxiety_scale.jpg)
 - Sixteen items centered around self-report feelings of anxiety and self-efficacy when using computers
 -  Barbeite, F. G., & Weiss, E. M. (2004)
 ----------------------------------------------------------------
-##### Development and Validation of an Artificial Intelligence Scale: an Initial Application in Predicting Motivated Learning Behavior
+#### Artificial intelligence anxiety scale
+Title: **Development and Validation of an Artificial Intelligence Scale: an Initial Application in Predicting Motivated Learning Behavior**
 
 ![alt text](AI_anxiety_scale.jpg)
 - Instrument measuring anxiety around AI (with some potentially concerning conflation of anxiety and fear-related vocabulary)
