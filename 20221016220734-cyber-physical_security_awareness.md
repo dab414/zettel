@@ -20,7 +20,7 @@ In the case of an attack detection simulation where participants looked at webpa
 
 The figure below shows the participants' correctness in identifying cyber-attack.
 
-![alt text](cyber-attack-awareness.jpg)
+![alt text](cyber-attack-awareness_scale.jpg)
 
 References:
 1. Hewlett, E. M. (2020). _Human detection of attacks against cyber-physical systems_ (Doctoral dissertation, University of Bristol).
