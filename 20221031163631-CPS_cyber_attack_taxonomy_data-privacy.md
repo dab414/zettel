@@ -1,7 +1,7 @@
 # 20221031163631-CPS_cyber_attack_taxonomy_data-privacy
 #hcps #cyber-security
 
-Cyber threats come in many forms across many systems, with a multitude of motivations and incentives for hackers to target a particular person or persons. Some of these attacks can infringe on the privacy of CPS users and result in attacks that lock people out of important systems, or steal sensitive information from them. Below are a number of examples across the domains of computers/smart-phones, smart cars, VANETs, planes, healthcare/medical, and energy.
+Cyber threats come in many forms across many systems, with a multitude of motivations and incentives for hackers to target a particular person or persons. Some of these attacks can infringe on the privacy of CPS users and result in attacks that lock people out of important systems, or steal sensitive information from them. Below are a number of examples across the domains of computers/smart-phones, smart cars, VANETs, planes, healthcare/medical, energy, VR, and AI.
 
 ## Data/Privacy:
 - Computer/smart-phone based attacks [1]
@@ -34,7 +34,11 @@ Cyber threats come in many forms across many systems, with a multitude of motiva
 	- Insulin pumps and Pacemakers may interface with a mobile app where confidential information may be compromised (e.g. Medtronic devices and MiniMed mobile app/CareLink) [5], [6], [7], [8]
 	- Physical access to a device allows an attacker to obtain its serial number
 - Energy:
-	- Smart meters can be hacked and data/history of energy use information can be acquired [9]. Additionally, phishing email notifications may be sent  through some smart meter displays [10], [11]
+	- Smart meters can be hacked and data/history of energy use information can be acquired [9]. Additionally, phishing email notifications may be sent through some smart meter displays [10], [11]
+- VR:
+	- VR devices may share potentially private use information (collected by sensors or inputs) with third parties, and communication between VR devices is unencrypted, which makes it easier to access for malicious parties. [12]
+- AI:
+	- AI plays a role in many smart devices/services, but may provide security and privacy risks. Service providers may "use data mining technologies to excessively analyze personal data" and hackers with AI knowledge may use machine-learning protection mechanisms against users to "weaken the training effects and to reduce the reliability of the algorithms". [12]
 
 References:
 1. Hewlett, E. M. (2020). _Human detection of attacks against cyber-physical systems_ (Doctoral dissertation, University of Bristol).
@@ -48,3 +52,4 @@ References:
 9. https://texasenergyreport.com/news/2021/06/25/hacking-into-your-smart-meter-theres-a-lot-you-may-not-know/
 10. **[https://www.smartme.co.uk/documents/RAM-Smart-Meter-User-Guide-web.pdf](https://www.smartme.co.uk/documents/RAM-Smart-Meter-User-Guide-web.pdf)**
 11. **[https://assets.ctfassets.net/620j9bwnh4b6/76Bee9EXDCcEDOzoOwt2n4/7377cca4379fca36ed422d6116fd9b82/SMETS2_meter_guide.pdf](https://assets.ctfassets.net/620j9bwnh4b6/76Bee9EXDCcEDOzoOwt2n4/7377cca4379fca36ed422d6116fd9b82/SMETS2_meter_guide.pdf)**
+12. Cui, L., Xie, G., Qu, Y., Gao, L., & Yang, Y. (2018). Security and privacy in smart cities: Challenges and opportunities. _IEEE access_, _6_, 46134-46145.
