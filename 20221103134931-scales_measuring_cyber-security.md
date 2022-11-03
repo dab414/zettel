@@ -23,41 +23,40 @@ Below are a number of scales from previous research looking into various aspects
 	- Development and Validation of an Artificial Intelligence Scale: an Initial Application in Predicting Motivated Learning Behavior
 	* Wang & Wang, 2022
 
-----------------------------------------------------------------
-###### Cyber-Paranoia and Fear Scale
+### Cyber-Paranoia and Fear Scale
 
 **Title: Ever-present threats from information technology: the Cyber-Paranoia and Fear Scales**
 
 ![alt text](cyber_paranoia_fear_scale.jpg)
 - The first six items here were written to measure *paranoid* fears around information technology, while the latter five measure *realistic* fears
 - Mason, O. J., Stevenson, C., & Freedman, F. (2014)
-----------------------------------------------------------------
-##### Anxiety as a Barrier to Information Processing in the Event of a Cyberattack
+
+### Anxiety as a Barrier to Information Processing in the Event of a Cyberattack
 
 ![alt text](emotions_around_cyber-attack_scale.jpg)
 - Following exposure to a visual news story about a cyber-attack, participants took these modified pre-existing inventories to measure their levels of anxiety, anger, and fear around the presented information
 - Cheung‐Blunden, V., & Ju, J. (2016)
-----------------------------------------------------------------
-##### Assessing Users’ Privacy and Security Concerns of Smart Home Technologies
+
+### Assessing Users’ Privacy and Security Concerns of Smart Home Technologies
 
 ![alt text](privacy_&_security_concerns_of_smart_home_tech_scale.jpg)
 - Types of cybersecurity attack concerns (attack-unrelated, attack-related devices, attack-related data) were categorized by the themes that arose most prevalent in interviews, with quote examples of how these themes were extracted/coded
 - Zimmermann, V., Gerber, P., Marky, K., Böck, L., & Kirchbuchner, F. (2019)
-----------------------------------------------------------------
-##### Emotional Experiences of Cybersecurity Breach Victims
+
+### Emotional Experiences of Cybersecurity Breach Victims
 
 ![alt text](emotions_following_cyber-security_breach_scale.jpg)
 - Scale measuring participants' reflection of a prior experienced cybersecurity breach in terms of the "appraisals, action tendencies, bodily reactions, expressions, subjective feelings, and regulation attempts" that occured
 - Budimir, S., Fontaine, J. R., & Roesch, E. B. (2021)
-----------------------------------------------------------------
-##### Self-report feelings of anxiety and self-efficacy when using computers
+
+### Self-report feelings of anxiety and self-efficacy when using computers
 Title: **Computer Self-Efficacy and Anxiety Scales for an Internet Sample: Testing Measurement Equivalence of Existing Measures and Development of New Scales**
 
 ![alt text](computer_self_efficacy_&_anxiety_scale.jpg)
 - Sixteen items centered around self-report feelings of anxiety and self-efficacy when using computers
 -  Barbeite, F. G., & Weiss, E. M. (2004)
-----------------------------------------------------------------
-#### Artificial intelligence anxiety scale
+
+### Artificial intelligence anxiety scale
 Title: **Development and Validation of an Artificial Intelligence Scale: an Initial Application in Predicting Motivated Learning Behavior**
 
 ![alt text](AI_anxiety_scale.jpg)
