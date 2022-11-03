@@ -38,6 +38,7 @@ In progress. We want past research dealing with:
 ### Establish working definition of "security concern"
 
 What is security concern not?
+
 * It's not knowledge
 	* I can have accurate knowledge and not be concerned
 	* That includes knowledge of the system and / or knowledge of the risk itself
