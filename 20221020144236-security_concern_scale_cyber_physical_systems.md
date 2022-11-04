@@ -27,7 +27,7 @@ the technology). See below for more detail on each point.
 In progress. We want past research dealing with:
 
 * Scales for measuring security concerns in other domains
-	* [[20221103134931-scales_measuring_cyber-security]]
+	* [[20221103134931-scales_measuring_cyber_security_concern]]
 * People's intuitions about what security best practices are
     * We're especially interested in their *wrong* intuitions
     * Could pilot test for this point if there's not much previous research
