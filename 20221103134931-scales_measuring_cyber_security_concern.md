@@ -6,8 +6,6 @@ Below are a number of scales from previous research looking into various aspects
 ### Table of Contents:
 
 **Concern and cyber security**
-- Assessing Users’ Privacy and Security Concerns of Smart Home Technologies
-	* Zimmerman et al., 2019
 - Emotional Experiences of Cybersecurity Breach Victims
 	* Budimir et al., 2021
 * Surveillance, vigilance, and avoidance cybersecurity measures
@@ -16,9 +14,11 @@ Below are a number of scales from previous research looking into various aspects
 	* Cannizzaro et al., 2019
 
 **General negative emotions**
+
 * Scale distinguishing between fear, anxiety, and anger (generally)
 	- Anxiety as a Barrier to Information Processing in the Event of a Cyberattack
 	* Cheung-Blunden & Ju, 2016
+	
 *  State / trait anxiety scale
 	* Zsido et al (2020); adapted from Speilberger, 1983
 	
@@ -34,12 +34,6 @@ Below are a number of scales from previous research looking into various aspects
 	* Wang & Wang, 2022
 
 ## Concern and cyber security
-
-### Assessing Users’ Privacy and Security Concerns of Smart Home Technologies
-
-![alt text](privacy_&_security_concerns_of_smart_home_tech_scale.jpg)
-- Types of cybersecurity attack concerns (attack-unrelated, attack-related devices, attack-related data) were categorized by the themes that arose most prevalent in interviews, with quote examples of how these themes were extracted/coded
-- Zimmermann, V., Gerber, P., Marky, K., Böck, L., & Kirchbuchner, F. (2019)
 
 ### Emotional Experiences of Cybersecurity Breach Victims
 
