@@ -1,6 +1,8 @@
 # 20221021152856-research_questions_CPS_security_concerns
 #hcps #research-questions #security #cyber-physical-systems
 
+This document is also on Google docs for collaborative brainstorming (see [here](https://docs.google.com/document/d/1-4940_p1bhPt4luaGzg5qRN8JRFzwHtoX51xajCR8dI/edit)).
+
 This is an outline / brainstorming space for research questions related to
 what will influence or be influenced by people's security concerns around
 cyber physical systems (CPS). We are developing a scale to measure people's

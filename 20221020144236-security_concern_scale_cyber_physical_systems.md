@@ -1,4 +1,5 @@
 # 20221020144236-security_concern_scale_cyber_physical_systems
+
 #hcps #cyber-physical-systems #security #scale-development #methods
 
 ## Broad goal
@@ -37,15 +38,10 @@ In progress. We want past research dealing with:
 
 ### Establish working definition of "security concern"
 
-What is security concern not?
+A heightened state of anxiety about security vulnerabilities in a cyber
+physical system that might lead to the four types of harm defined below.
 
-* It's not knowledge
-	* I can have accurate knowledge and not be concerned
-	* That includes knowledge of the system and / or knowledge of the risk itself
-* It's not willingness to adopt the technology or take security measures
-	* These are things concern should predict
-
-Are we really talking about just like a heightened state of anxiety at the state of security?
+See [[20221107114815-security_concern_cyber_physical_systems.md]] for more on the definition.
 
 ### Identify important constructs
 
@@ -66,6 +62,8 @@ Once we've covered past research and developed a final set of core constructs,
 we will develop survey items specific to each core construct. For example, if
 financial harm is a core construct, we will develop questions specifically
 targeted at revealing people's concerns about financial harm.
+
+See a draft of survey items [here](https://docs.google.com/document/d/12PitA3aGj05_QwP6mBBUp9CAV8u9qaT7RaCRcC1OWbU/edit).
 
 ### Validate the scale
 

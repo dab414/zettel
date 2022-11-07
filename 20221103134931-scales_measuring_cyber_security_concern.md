@@ -47,6 +47,7 @@ Below are a number of scales from previous research looking into various aspects
 ![alt_text](cheung-blunden_et_al_2019.jpg)
 
 * A 26 item scale measuring surveillance, vigilance, and avoidance in the context of specific actions one could take in the domain of cyber security.
+* This scale served as the outcome measure in their study, and they showed some evidence in support of the idea that trait or state fear leads more toward avoidance, while trait or state anxiety leads more toward surveillance and vigilance.
 * Cheung-Blunden et al., 2019.
 
 ### Incident anxiety scale
@@ -107,6 +108,10 @@ Title: **Development and Validation of an Artificial Intelligence Scale: an Init
 - Instrument measuring anxiety around AI (with some potentially concerning conflation of anxiety and fear-related vocabulary)
 - Wang, Y. Y., & Wang, Y. S. (2022)
 ----------------------------------------------------------------
+**Related notes:**
+* [[20221107101019-impacts_of_anxiety_fear_on_security]]
+* [[20221107110053-distinguishing_between_fear_and_anxiety]]
+* [[20221021152856-research_questions_CPS_security_concerns]]
 
 **References**:
 1. Mason, O. J., Stevenson, C., & Freedman, F. (2014). Ever-present threats from information technology: the Cyber-Paranoia and Fear Scale. _Frontiers in psychology_, _5_, 1298.
