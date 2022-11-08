@@ -1,0 +1,31 @@
+# 20221107122514-privacy_concerns_cyber_physical_systems
+#hcps #cyber-security #privacy
+
+### Takeaways:
+- People are concerned about who has access to their personal information.
+	- People are generally okay with sharing personal info so long as there is a personal benefit to doing so.
+- Smart system users value convenience over privacy, with features like remote access being more important than sound security.
+- A lack of awareness about data collection conventions may color people's level of privacy concern.
+- The level of concern people have over online security is sometimes at odds with reality, which may be due to myths present in the media.
+- Privacy concerns vary geographically.
+
+Perhaps the most prevalent security concern among CPS/smart device users is the protection of their privacy. Personal data compromise can lead to all manner of negative consequences such as identity theft, financial loss, compromise of medical records, device use history, and driving data, and more (see [[20221031163631-CPS_cyber_attack_taxonomy_data-privacy]] and [[20221031163119-CPS_cyber_attack_taxonomy_financial]]).
+
+One study done in Korea [1] examined the privacy concerns of smartphone users, finding that just less than half of those studied were concerned about excessive data collection and its use without consent. Furthermore, less than 20% were concerned about sharing this personal data to third parties. Those who *were* concerned about sharing data to third parties were less interested in using IoT devices. However, concerns about excessive data collection did not lead to less usage of IoT devices, which the researchers believed to suggest that users are not concerned about the usage of their data, but the management of it. For example, good management would keep user data secure within the firm that originally collected it.
+
+Another study echoed this perspective [2], with participants being fine sharing data so long as only certain parties had access to it. In this case, people believed that use data given to a manufacturer could provide a downstream benefit for a given product, but internet service providers and government agencies were perceived far more negatively due to the questionable benefit sharing data with them would yield. Even more than privacy, users yearned for convenience in using IoT technology. How convenient a product is to use (e.g., with access via voice-control, a phone app, etc.) informs privacy behaviors. That is, participants are willing to trade privacy for convenience if it means the device is easier to use. Additionally, users were skeptical, and not concerned, about the privacy issues associated with IoT devices without audio or video capability (e.g., smart lights or thermostats), despite the fact that the data inherent in these devices might be used to infer sensitive information "such as in-home temperatures and when the front door opens".
+
+Other research has found that smart system users are unaware of the data being collected by such devices in other contexts as well, such as on computers and smart phones [3] and in smart buildings [4]. For the latter, the overwhelming majority of both residents and non-residents of a smart building were completely or at least partially unaware of what data is collected on a daily basis. This awareness, or lack thereof, is exceedingly useful in characterizing concern. In the study, researchers first assessed the residents and non-residents' concerns about personal privacy when using the building, and found that their concerns were significantly greater after informing them of the various kinds of data being collected from them, such as occupancy, humidity, temperature, CO2, and brightness data. Both residents and non-residents desired more transparency in the data collection process.
+
+There is great range in what concerns smart system users have and how concerned they are. At times, these concerns are even at odds with reality. For example, one study found that a higher percentage of people were worried about  being the victim of cyber-identity theft than physical place-based identity theft, despite the fact that between 1-4% of all identity theft crimes take place online [5]. Interestingly, this same study found that the majority of identity theft victims admitted they were unaware of how their information was compromised. An important detail of these beliefs rooted in paranoia is that they may be traced back to myths of cybercrime portrayed by the media, according to [6].
+
+privacy concerns may also vary geographically, with one study [7] finding that city dwelling people are more afraid of personal data security, information loss, and communication loss, than rural and small town citizens.
+
+**References:**
+1. Lee, S., Park, N. E., & Suk, J. (2019, June). The Effects of Consumers' Information Security Behavior and Information Privacy Concerns on Usage of IoT Technology. In _Proceedings of the XX International Conference on Human Computer Interaction_ (pp. 1-2).
+2. Zheng, S., Apthorpe, N., Chetty, M., & Feamster, N. (2018). User perceptions of smart home IoT privacy. _Proceedings of the ACM on human-computer interaction_, _2_(CSCW), 1-20.
+3. Hewlett, E. M. (2020). _Human detection of attacks against cyber-physical systems_ (Doctoral dissertation, University of Bristol).
+4. Harper, S., Mehrnezhad, M., & Mace, J. (2022). User Privacy Concerns in Commercial Smart Buildings. _Journal of Computer Security_, (Preprint), 1-33.
+5. Roberts, L. D., Indermaur, D., & Spiranovic, C. (2013). Fear of cyber-identity theft and related fraudulent activity. _Psychiatry, Psychology and Law_, _20_(3), 315-328.
+6. _Wall, D.S.2008b. Cybercrime, media and insecurity: The shaping of public perceptions of cybercrime. International Review of Law, Computers and Technology, 22: 45–63. doi:10.1080/13600860801924907
+7. Abramova, S. B., Antonova, N. L., Campa, R., & Popova, N. G. (2022). Digital Fears Experienced by Young People in the Age of Technoscience. _Changing Societies & Personalities. 2022. Vol. 6. Iss. 1_, _6_(1), 56-78.
