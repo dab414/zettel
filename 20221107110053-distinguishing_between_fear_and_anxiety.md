@@ -17,9 +17,10 @@ anxiety can lead to differences in securiity behavior (Cheung-Blundin et al.,
 The introduction of Cheung-Blundin et al. (2019) has a great review of the
 functionalist perspective of emotion generally and of fear and anxiety
 specifically. They cover some literature suggesting that fear identifies
-imminent threats and flees, freezes, hides, etc. They characterize anxiety as a
-more complex emotion because it requires intelligence in the form of memory and
-imagination to worry about future outcomes. 
+imminent threats and flees, freezes, hides, etc. Fearful users may "avoid e-commerce, shun social media, [or] adopt air-gap defensive measures".
+They characterize anxiety as amore complex emotion because it requires intelligence in the form of memory and imagination to worry about future outcomes. Anxious users may be "hypervigilant, reassurance-seeking, [and] compulsively check [devices]".
+- While fear leads people to increase the distance between them and the perceived threat, anxiety closes that gap to survey the threat in a consistent manner
+- While it may not be significant for behavior, fear may be further broken down into realistic fears and unrealistic (or paranoid) fears. This is an important distinction in the study of cyber-security fears as the novelty and ambiguity of cyberspace lends itself to a wide range of these two types of fears.
 
 
 **References**
