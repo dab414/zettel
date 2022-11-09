@@ -9,7 +9,7 @@ A map of content for all things related to human security in cyber physical syst
 		* ie, What are the ways in which human decision making can increase the vulnerability of a CPS?
 		* What is the awareness of these concerns by average people? [[20221016220734-cyber-physical_security_awareness]]
 		* **What are the types of harm that can come from an attack on a CPS?**
-			* [[20221020134323-CPS_cyber_attack_taxonomy]]
+			* [[20221020134323-CPS_cyber_attack_harm_taxonomy]]
 			* Physical, financial, privacy loss, property
 			* Related to but not the same thing as attacker motivation
 			* To do: 

@@ -54,7 +54,7 @@ We want to get a sense of people's concern over the security of cyber physical s
 * Data / privacy
 * Property
 
-For more detail on each of these types of harm, see [[20221020134323-CPS_cyber_attack_taxonomy]].
+For more detail on each of these types of harm, see [[20221020134323-CPS_cyber_attack_harm_taxonomy]].
 
 ### Develop survey items
 
