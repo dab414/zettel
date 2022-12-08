@@ -39,6 +39,8 @@ Cyber threats come in many forms across many systems, with a multitude of motiva
 	- VR devices may share potentially private use information (collected by sensors or inputs) with third parties, and communication between VR devices is unencrypted, which makes it easier to access for malicious parties. [12]
 - AI:
 	- AI plays a role in many smart devices/services, but may provide security and privacy risks. Service providers may "use data mining technologies to excessively analyze personal data" and hackers with AI knowledge may use machine-learning protection mechanisms against users to "weaken the training effects and to reduce the reliability of the algorithms". [12]
+- Robotics:
+	- Robotic operators (e.g. industrial robots, warehouse robots, feeding robots, exoskeletons, assistants, socially interactive robots, robotic wheelchairs, and robotic surgeons) contain vast amounts of private data that hackers might be interested in [13]
 
 References:
 1. Hewlett, E. M. (2020). _Human detection of attacks against cyber-physical systems_ (Doctoral dissertation, University of Bristol).
@@ -53,3 +55,4 @@ References:
 10. **[https://www.smartme.co.uk/documents/RAM-Smart-Meter-User-Guide-web.pdf](https://www.smartme.co.uk/documents/RAM-Smart-Meter-User-Guide-web.pdf)**
 11. **[https://assets.ctfassets.net/620j9bwnh4b6/76Bee9EXDCcEDOzoOwt2n4/7377cca4379fca36ed422d6116fd9b82/SMETS2_meter_guide.pdf](https://assets.ctfassets.net/620j9bwnh4b6/76Bee9EXDCcEDOzoOwt2n4/7377cca4379fca36ed422d6116fd9b82/SMETS2_meter_guide.pdf)**
 12. Cui, L., Xie, G., Qu, Y., Gao, L., & Yang, Y. (2018). Security and privacy in smart cities: Challenges and opportunities. _IEEE access_, _6_, 46134-46145.
+13. Fosch-Villaronga, E., & Mahler, T. (2021). Cybersecurity, safety and robots: Strengthening the link between cybersecurity and safety in the context of care robots. _Computer Law & Security Review_, _41_, 105528.
