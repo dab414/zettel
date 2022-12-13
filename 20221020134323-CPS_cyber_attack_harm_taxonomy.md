@@ -11,6 +11,8 @@ Cyber threats come in many forms across many systems, with a multitude of motiva
 
 ### Property: [[20221031164257-CPS_cyber_attack_taxonomy_property]]
 
+### Psychological: [[20221213122802-CPS_cyber_attack_taxonomy_psychological]]
+
 References (across relevant document links):
 1. **https://www.webroot.com/blog/2019/09/17/keeping-your-vehicle-secure-against-smart-car-hacks/**
 2. **https://manuals.medtronic.com/content/dam/emanuals/crdm/M981757A001A_view.pdf**
