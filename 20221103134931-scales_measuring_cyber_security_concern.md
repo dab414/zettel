@@ -33,6 +33,11 @@ Below are a number of scales from previous research looking into various aspects
 	- Development and Validation of an Artificial Intelligence Scale: an Initial Application in Predicting Motivated Learning Behavior
 	* Wang & Wang, 2022
 
+**Concern coming as the result of an attack**
+* Cybersecurity GRID questionnaire
+	* Covers dimensions: emotional intensity, proactive vs. fight/flight, affective vs. cognitive/motivational
+	* Budimir et al., 2021
+
 ## Concern and cyber security
 
 ### Emotional Experiences of Cybersecurity Breach Victims
@@ -107,6 +112,14 @@ Title: **Development and Validation of an Artificial Intelligence Scale: an Init
 ![alt text](AI_anxiety_scale.jpg)
 - Instrument measuring anxiety around AI (with some potentially concerning conflation of anxiety and fear-related vocabulary)
 - Wang, Y. Y., & Wang, Y. S. (2022)
+
+### Concern coming as the result of an attack  
+Title: **Emotional Reactions to Cybersecurity Breach Situations: Scenario-Based Survey Study**
+
+![alt_text](budimir_et_al_2021.jpg)
+
+* They have many more items available in an appendix
+* Budimir et al., 2021
 ----------------------------------------------------------------
 **Related notes:**
 * [[20221107101019-impacts_of_anxiety_fear_on_security]]
@@ -123,3 +136,4 @@ Title: **Development and Validation of an Artificial Intelligence Scale: an Init
 7. Cheung-Blunden, V., Cropper, K., Panis, A., & Davis, K. (2019). Functional divergence of two threat-induced emotions: Fear-based versus anxiety-based cybersecurity preferences. _Emotion_, _19_(8), 1353.
 8. Zsido, A. N., Teleki, S. A., Csokasi, K., Rozsa, S., & Bandi, S. A. (2020). Development of the short version of the spielberger state—trait anxiety inventory. _Psychiatry research_, _291_, 113223.
 9. Cannizzaro, S., Procter, R., Ma, S., & Maple, C. (2020). Trust in the smart home: Findings from a nationally representative survey in the UK. _Plos one_, _15_(5), e0231615.
+10. Budimir, S., Fontaine, J. R., Huijts, N. M., Haans, A., Loukas, G., & Roesch, E. B. (2021). Emotional reactions to cybersecurity breach situations: Scenario-based survey study. _Journal of medical Internet research_, _23_(5), e24879.
