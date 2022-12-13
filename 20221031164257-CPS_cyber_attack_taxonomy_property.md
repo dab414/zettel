@@ -16,9 +16,11 @@ Cyber threats come in many forms across many systems, with a multitude of motiva
 	* Systems connected to the CAN network (i.e., Adaptive Cruise Control (ACC), Lane Keep Assist, and Collision Prevention) are vulnerable and may be disrupted (through noise or spoofing). For example, hackers could "reduce or increase speed unexpectedly, or even cause collisions" by manipulating ACC. [3]
 - Energy:
 	- Smart meters can be hacked and their parameters changed to lead to house fires/explosions. Additionally, since they link to the larger energy grid, a blackout can be caused and lead to downstream property damage and financial consequences as energy is not supplied to necessary facilities [4]
+	* As an example of what can happen when a power grid is compromised, natural disasters hitting power grids in major cities have caused hundreds of thousands of people to be without power for days [5].
 
 References:
 1. **https://www.webroot.com/blog/2019/09/17/keeping-your-vehicle-secure-against-smart-car-hacks/**
 2. Humayed, A., & Luo, B. (2015, April). Cyber-physical security for smart cars: taxonomy of vulnerabilities, threats, and attacks. In _Proceedings of the ACM/IEEE Sixth International Conference on Cyber-Physical Systems_ (pp. 252-253).
 3. Humayed, A., Lin, J., Li, F., & Luo, B. (2017). Cyber-physical systems security—A survey. _IEEE Internet of Things Journal_, _4_(6), 1802-1831.
 4. https://texasenergyreport.com/news/2021/06/25/hacking-into-your-smart-meter-theres-a-lot-you-may-not-know/
+5. Humayed, A., Lin, J., Li, F., & Luo, B. (2017). Cyber-physical systems security—A survey. _IEEE Internet of Things Journal_, _4_(6), 1802-1831.

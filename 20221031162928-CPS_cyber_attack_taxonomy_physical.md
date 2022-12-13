@@ -1,9 +1,9 @@
-# 20221031162928-CPS_cyber_attack_taxonomy_physical-personal
+# 20221031162928-CPS_cyber_attack_taxonomy_physical
 #hcps #cyber-security
 
 Cyber threats come in many forms across many systems, with a multitude of motivations and incentives for hackers to target a particular person or persons. Some of these attacks can come in the form of physical harm to the user of the system. Below are a number of examples across the domains of smart cars, healthcare/medical, and energy.
 
-## Physical/Personal:
+## Physical:
 - Smart cars:
 	- Hacking a vehicle's on-board diagnostics port, which is typically used by mechanics to read maintenance issues, allows direct access to a vehicle's computer without any security measures. This may allow hackers to manipulate different car systems. Such attacks may have consequences for both the car and the user [1]
 	- Pedestrian warning systems in teslas emit sound when driving under a certain speed to alert pedestrians who may not hear the car otherwise. This could cause an issue if the alarm were to be turned off and people crossing a street aren't aware of a passing car [14]

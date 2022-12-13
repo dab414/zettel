@@ -3,7 +3,7 @@
 
 Cyber threats come in many forms across many systems, with a multitude of motivations and incentives for hackers to target a particular person or persons. In an effort to construct common themes around these attacks, we can abstract their consequences into the categories of physical, financial, data, and property harm. Below are examples of specific system attacks categorized by their ultimate consequence on the target(s).
 
-### Physical/Personal: [[20221031162928-CPS_cyber_attack_taxonomy_physical-personal]]
+### Physical/Personal: [[20221031162928-CPS_cyber_attack_taxonomy_physical]]
 
 ### Financial: [[20221031163119-CPS_cyber_attack_taxonomy_financial]]
 

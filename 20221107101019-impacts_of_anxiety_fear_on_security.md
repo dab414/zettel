@@ -15,7 +15,10 @@ vigilance, and avoidance security measures).
 The relationship between **anxiety** and security behavior has been shown to be more
 complex. Some evidence to suggest that anxiety leads to approach behavior, although
 evidence is not as strong as for fear (Cheung-Blundin et al., 2019; Perkins & Corr, 2006;
-Perkins et al., 2010). 
+Perkins et al., 2010). Some have argued that anxiety can be facilitating (improving performance)
+or debilitating (worsening performance; Alpert & Haber, 1960). One hypothesis is that anxiety
+is debilitating for complex tasks and, since IT is complex, anxiety tends to worsen performance
+in the realm of IT (Wang & Wang, 2022).
 
 
 **References**
@@ -40,3 +43,16 @@ threat magnification. Journal of Personality, 78, 1071–1090. http://dx
 Psychometric differentiation of intensity and direction dimensions of
 human defensive behaviour. Behavioural Brain Research, 169, 21–28.
 http://dx.doi.org/10.1016/j.bbr.2005.11.027
+
+* Alpert, R., & Haber, R. N. (1960). Anxiety in academic achievement situations. The Journal of Abnormal and Social Psychology, 61(2), 207–215.
+
+* @article{wang2022development,
+  title={Development and validation of an artificial intelligence anxiety scale: An initial application in predicting motivated learning behavior},
+  author={Wang, Yu-Yin and Wang, Yi-Shun},
+  journal={Interactive Learning Environments},
+  volume={30},
+  number={4},
+  pages={619--634},
+  year={2022},
+  publisher={Taylor \& Francis}
+}

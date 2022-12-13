@@ -2,20 +2,13 @@
 
 #hcps #human-security #CPS #develop #moc
 
-A map of content for all things related to human security in cyber physical systems.
+A map of content for all things related to human security in cyber physical systems. For a consideration of security generally, see [[20221208104017-CPS_security]].
 
-* Human security vulnerabilities in CPSs broadly:
+## Humans and vulnerabilities of cyber physical systems
+
+* What are the ways in which human decision making can increase the vulnerability of a CPS?
     * What are the vulnerabilities? [[20220920102600-human_security_vulnerabilities_CPS]]
-		* ie, What are the ways in which human decision making can increase the vulnerability of a CPS?
 		* What is the awareness of these concerns by average people? [[20221016220734-cyber-physical_security_awareness]]
-		* **What are the types of harm that can come from an attack on a CPS?**
-			* [[20221020134323-CPS_cyber_attack_harm_taxonomy]]
-			* Physical, financial, privacy loss, property
-			* Related to but not the same thing as attacker motivation
-			* To do: 
-				* keep brainstorming types of harm
-				* compile types of harm for specific systems
-				* see if we can extrapolate themes across them
     * What are the potential causes for the concerns? [[20220920111058-human_security_vulnerability_causes_CPS]]
     * What are the potential solutions? [[20220920115549-human_security_solutions_CPS.md]]
     * What are ways of and challenges with implementing the solutions? [[]]
