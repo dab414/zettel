@@ -19,7 +19,7 @@ as a result of an attack on a cyber physical system.
 * under their cyber-harm type "reputational":
 
 ![alt_text](agrafiotis_et_al_2018_reputational.jpg)
-
+Realizing these ^ are pretty much all business related.
 
 
 **References**

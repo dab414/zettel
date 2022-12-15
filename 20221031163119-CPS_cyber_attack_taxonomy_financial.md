@@ -1,7 +1,7 @@
 # 20221031163119-CPS_cyber_attack_taxonomy-financial
 #hcps #cyber-security
 
-Cyber threats come in many forms across many systems, with a multitude of motivations and incentives for hackers to target a particular person or persons. Some of these attacks can results in financial loss on persons and business when important data/access is made available to malicious parties. Below are a number of examples across the domains of computers/smart phone, planes, energy, and bionic limbs.
+Cyber threats come in many forms across many systems, with a multitude of motivations and incentives for hackers to target a particular person or persons. Some of these attacks can result in financial loss on persons and business when important data/access is made available to malicious parties. Below are a number of examples across the domains of computers/smart phone, planes, energy, and bionic limbs.
 
 The financial costs recorded in the past due to both malicious attackers and defensive strategies are astronomical: [[202212071713-CPS_financial_costs]]
 

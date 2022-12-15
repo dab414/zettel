@@ -17,8 +17,8 @@ Cyber threats come in many forms across many systems, with a multitude of motiva
 	- GPS spoofing: accessing a vehicle's GPS and tricking the system's ability to ascertain correct location/direction sensor information
 		- Smart GPS contains even more information and may provide real-time vehicle status updates about maintenance needs, info on fuel consumption, vehicle speed, etc. Needless to say, information that might be desirable by malicious parties
 		- Accessing a tire pressure monitoring system (TPMS) communication log to identify a vehicle's ID. [2]
-- VANETs (fits under all categories to some extent)
-	- Many types of VANET-specific attacks exist, this is not an exhaustic list:
+- Vehicular ad hoc network (VANETs; fits under all categories to some extent)
+	- Many types of VANET-specific attacks exist, this is not an exhaustive list:
 		- Replay attacks
 		- Message tampering to change/alter messages transmitted among vehicles
 		- Social attack  to steal information from users by sending immoral/spam messages

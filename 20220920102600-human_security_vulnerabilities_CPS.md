@@ -4,10 +4,17 @@
 
 Types of human error (Reason, 1990):
 
+The emphasis here should be on security vulnerabilities of the *system* that
+arise because of human behavior. At present (2022-12-15) it's a bit unclear
+how the content I have here is distinguishable from the topic covered in
+[[20220920111058-human_security_vulnerability_causes_CPS.md]].
+
 * Execution
     * Error of commission
+	* In the example of users, clicking on a link from a phishing email
     * Error of omission
         * Includes acting with mixed intention
+	* Failure to adopt reasonable security practices
 
 * Planning
     * Rule-based mistake
@@ -26,6 +33,7 @@ cognition generally compromised by an attack in some way (see
 scenario where someone is, for example, making an appropriate decision in
 response to bad data, which leads to negative consequences. Whether this can be
 considered as a "human error" per se is unclear.
+
 
 **Links**
 

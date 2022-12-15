@@ -2,6 +2,7 @@
 #hcps #attack
 
 The types of attacks / threats to cyber physical systems include:
+
 * Spoofing identity
 * Tampering with data
 * Repudiation of origin
@@ -13,6 +14,8 @@ The types of attacks / threats to cyber physical systems include:
 * Denial of service
 
 The above list comes from [1].
+
+Types of harm that might result from an attack are covered in [[20221020134323-CPS_cyber_attack_harm_taxonomy]].
 
 **References**
 
