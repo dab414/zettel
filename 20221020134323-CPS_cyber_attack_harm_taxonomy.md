@@ -13,6 +13,7 @@ Cyber threats come in many forms across many systems, with a multitude of motiva
 
 ### Psychological: [[20221213122802-CPS_cyber_attack_taxonomy_psychological]]
 
+ 8cadc24 (update for stats on CPS prevalence)
 Additionally, it is important to take into account the prevalence of CPS devices. ([[20221226180312-CPS_prevalence]]) Usage rates of a device may have significant bearing on the prevalence of the attacks outlined in the documents above.
 
 References (across relevant document links):
