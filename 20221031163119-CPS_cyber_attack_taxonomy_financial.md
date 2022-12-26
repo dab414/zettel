@@ -13,7 +13,7 @@ The financial costs recorded in the past due to both malicious attackers and def
 	- Near-field communication (NFC) sensors (which are often used to pay for items by placing a phone next to a reader, with a detectable range of about 4 inches) may be misused by nearby hackers who use it to steal financial and other information
 		- NFC can be disabled when not in use
 	- Evil-maid attacks: targeting devices left unattended/shut-down. Most of the time such attacks are carried out by internal corporate staff or an espionage attacker. Boot loaders or USB drives may be plugged into the unattended device to install a key logger that captures encryption keys to then steal data [6]
-	- Ransom ware attacks: software that targets a system's functionality by locking the data and sending a ransom message to the system owner that they will not unlock the system until a specified amount of money is paid. [6]
+	- Ransomware attacks: software that targets a system's functionality by locking the data and sending a ransom message to the system owner that they will not unlock the system until a specified amount of money is paid. [6]
 - Smart Meters:
 	- Businesses may be hurt by motivated attacks that want to reduce utility/tarrif bills by hacking smart utility systems and injecting bad data [6]
 - Planes:
